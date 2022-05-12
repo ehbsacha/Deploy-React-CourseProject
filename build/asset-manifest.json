@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.548e0ff0.css",
+    "main.js": "/static/js/main.af2d3522.js",
+    "static/js/787.19c64a97.chunk.js": "/static/js/787.19c64a97.chunk.js",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.9d7509058c1128e67ec7.jpg",
+    "static/media/LekkerVanBijOnsLogo.png": "/static/media/LekkerVanBijOnsLogo.d858688ec02cfb353928.png",
+    "index.html": "/index.html",
+    "main.548e0ff0.css.map": "/static/css/main.548e0ff0.css.map",
+    "main.af2d3522.js.map": "/static/js/main.af2d3522.js.map",
+    "787.19c64a97.chunk.js.map": "/static/js/787.19c64a97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.548e0ff0.css",
+    "static/js/main.af2d3522.js"
+  ]
+}
